@@ -1,11 +1,11 @@
 # Meu Portfólio - Lurian Milaré
 
-Bem-vindo ao meu portfólio no GitHub Aqui, você encontrará uma coleção dos meus projetos e trabalhos mais recentes.
+Bem-vindo ao meu portfólio no GitHub. Aqui, você encontrará uma coleção dos meus projetos e trabalhos mais recentes.
 
 ## Sobre Mim:
 
 - 🎓 Estudante de Ciência da Computação;
-- 💻 Profissiência em Python com foco em código limpo.
+- 💻 Proficiência em Python com foco em código limpo.
 - 🤖 Dedicação ativa em Machine Learning e Deep Learning bem como análise e tratamento de dados.
 
 ## Portfólios Acadêmicos:
